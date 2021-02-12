@@ -6,4 +6,4 @@ Installation Guide for various development software, tools and packages
 
 | Sl No  | Tool Name  | Version [Compatibilities]  | Shell Script |
 |:-:|:-:|:-:|:-:|
-| 1  | [MongoDB](./tools/mongodb/README.md)  | latest  | [View](./tools/mongodb/assets/ubuntu1804.sh) |
+| 1  | [MongoDB](./tools/mongodb/README.md)  | latest  | [View](./tools/mongodb/ubuntu1804.sh) |
