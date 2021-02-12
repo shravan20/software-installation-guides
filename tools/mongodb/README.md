@@ -8,7 +8,7 @@
 
 ---
 
-<br><br><br>
+<br><br>
 
 - ### Installation of MongoDB(4.2.1) Ubuntu 18.04
 
@@ -61,7 +61,7 @@ sudo systemctl enable mongodb
 
 ---
 
-<br><br><br>
+<br><br>
 - ### Installation of MongoDB(4.2.1)  EC2 AMI Linux
 
 1. For MongoDB 4.2.1, create the below file using VI or any other editor:
