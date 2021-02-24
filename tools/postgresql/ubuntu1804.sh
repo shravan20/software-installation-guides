@@ -1,6 +1,4 @@
-#
-# Setup the repository
-#
+echo " Setting up the repository "
 
 echo "Install the public key for the repository (if not done previously)"
 sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
