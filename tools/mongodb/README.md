@@ -1,4 +1,4 @@
-# Installation Guid for MongoDB
+# Installation Guide for MongoDB
 
 | Sl No  | Version  | Operating System |
 |:-:|:-:|:-:|
