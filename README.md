@@ -7,3 +7,4 @@ Installation Guide for various development software, tools and packages
 | Tool Name  | Version [Compatibilities]  | Shell Script |
 |:-:|:-:|:-:|
 | [MongoDB](./tools/mongodb/README.md)  | latest  | [View](./tools/mongodb/ubuntu1804.sh) |
+| [Redis](./tools/Redis/README.md)      | latest  | [View](./tools/Redis/redis1804.sh)    |

@@ -7,7 +7,9 @@
 
 
 ---
-### Installation of MongoDB(4.2.1) Ubuntu 18.04
+
+<br>
+- ### Installation of MongoDB(4.2.1) Ubuntu 18.04
 
 1. Ubuntu’s official software package repositories comes with the latest version of MongoDB, and can be easily installed using the APT package manager.
 
@@ -58,7 +60,9 @@ sudo systemctl enable mongodb
 
 ---
 
-### Installation of MongoDB(4.2.1)  EC2 AMI Linux
+<br>
+
+- ### Installation of MongoDB(4.2.1)  EC2 AMI Linux
 
 1. For MongoDB 4.2.1, create the below file using VI or any other editor:
    
