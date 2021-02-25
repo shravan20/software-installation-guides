@@ -7,7 +7,7 @@ Installation Guide for various development software, tools and packages
 ![b3](https://img.shields.io/github/issues/shravan20/software-installation-guides)
 ![b4](https://img.shields.io/github/forks/shravan20/software-installation-guides)
 ![b5](https://img.shields.io/github/license/shravan20/software-installation-guides)
-![b](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fshravan20%2Fsoftware-installation-guides)
+[![b](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fshravan20%2Fsoftware-installation-guides)](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fshravan20%2Fsoftware-installation-guides)
 
 <br>
 
