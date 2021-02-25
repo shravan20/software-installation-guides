@@ -84,7 +84,7 @@ Update the apt package index and install packages to allow apt to use a reposito
    sudo apt-get install docker-ce="5:18.09.0~3-0~ubuntu-xenial" docker-ce-cli="5:18.09.0~3-0~ubuntu-xenial" containerd.io
   ```
 
-7. To test and verify that Docker Engineis installed properly, lets run hello-world image
+7. To test and verify that Docker Engine is installed properly, lets run hello-world image
    ```sh
    sudo docker run hello-world
    ```
@@ -172,7 +172,7 @@ Update the apt package index and install packages to allow apt to use a reposito
    sudo apt-get install docker-ce="5:18.09.1~3-0~debian-stretch" docker-ce-cli="5:18.09.1~3-0~debian-stretch" containerd.io
   ```
 
-7. To test and verify that Docker Engineis installed properly, lets run hello-world image
+7. To test and verify that Docker Engine is installed properly, lets run hello-world image
    ```sh
    sudo docker run hello-world
    ```
