@@ -2,8 +2,8 @@
 
 | Sl No  | Version  | Operating System |
 |:-:|:-:|:-:|
-| 1  | [latest(v4.2.1)](https://github.com/shravan20/software-installation-guides/tree/feature/dockerSetup/tools/docker#installation-of-docker20103-ubuntu-1804)  | Ubuntu 18.04(BionicBeaver)  |
-| 2  | [latest(v4.2.1)](https://github.com/shravan20/software-installation-guides/tree/feature/dockerSetup/tools/docker#installation-of-docker20103-ubuntu-1804-1)  | Debian/Raspbian Versions |
+| 1  | [latest(v20.10.3)](https://github.com/shravan20/software-installation-guides/tree/feature/dockerSetup/tools/docker#installation-of-docker20103-ubuntu-1804)  | Ubuntu 18.04(BionicBeaver)  |
+| 2  | [latest(v20.10.3)](https://github.com/shravan20/software-installation-guides/tree/feature/dockerSetup/tools/docker#installation-of-docker20103-ubuntu-1804-1)  | Debian/Raspbian Versions |
 
 
 ---
@@ -101,7 +101,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 <br>
 
-- ### Installation of Docker(20.10.3) Ubuntu 18.04
+- ### Installation of Docker(20.10.3) Debian
 
 1. Uninstall old versions, so older versions of Docker were called docker, docker.io, or docker-engine. If these are installed, uninstall them
 
