@@ -31,6 +31,3 @@ Installation Guide for various development software, tools and packages
 ![](https://contrib.rocks/image?repo=shravan20/software-installation-guides)
 
 <br>
-
-- ##### <img src="https://ghost.org/images/docs/setup/fork.gif" width="30"> _Huge Shoutout to all the Forkers_
-![](https://github.com/shravan20/software-installation-guides/network/members)
