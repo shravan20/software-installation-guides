@@ -23,16 +23,16 @@ sudo apt-get remove docker docker-engine docker.io containerd runc
 
 Update the apt package index and install packages to allow apt to use a repository over HTTPS
 
-```sh
-sudo apt-get update
+   ```sh
+   sudo apt-get update
 
-sudo apt-get install \
-    apt-transport-https \
-    ca-certificates \
-    curl \
-    gnupg-agent \
-    software-properties-common
-```
+   sudo apt-get install \
+      apt-transport-https \
+      ca-certificates \
+      curl \
+      gnupg-agent \
+      software-properties-common
+   ```
 
 3. Add Docker’s official GPG key
    
@@ -62,10 +62,10 @@ sudo apt-get install \
    
 5. Installation of Docker Engine
    
-```sh
-sudo apt-get update
-sudo apt-get install docker-ce docker-ce-cli containerd.io
-```
+   ```sh
+   sudo apt-get update
+   sudo apt-get install docker-ce docker-ce-cli containerd.io
+   ```
 
 6. To install a specific version of Docker Engine, list the available versions in the repo, then select and install:
    
@@ -91,9 +91,9 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 8. If you would like to use Docker as a non-root user, you should now consider adding your user to the “docker” group with something like:
 
-```sh
-  sudo usermod -aG docker $USER
-```
+   ```sh
+   sudo usermod -aG docker $USER
+   ```
 
 
 ---
@@ -105,9 +105,9 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 1. Uninstall old versions, so older versions of Docker were called docker, docker.io, or docker-engine. If these are installed, uninstall them
 
-```sh
-sudo apt-get remove docker docker-engine docker.io containerd runc
-```
+   ```sh
+   sudo apt-get remove docker docker-engine docker.io containerd runc
+   ```
 
 2. Update the apt package index and install packages to allow apt to use a repository over HTTPS
    
@@ -141,29 +141,29 @@ sudo apt-get remove docker docker-engine docker.io containerd runc
 
 4. Use the following command to set up the stable repository.
 
-```sh
-sudo add-apt-repository \
-   "deb [arch=amd64] https://download.docker.com/linux/debian \
-   $(lsb_release -cs) \
-   stable"
-```
+   ```sh
+   sudo add-apt-repository \
+      "deb [arch=amd64] https://download.docker.com/linux/debian \
+      $(lsb_release -cs) \
+      stable"
+   ```
 
 5. Install Docker Engine
 
-```sh
- sudo apt-get update
- sudo apt-get install docker-ce docker-ce-cli containerd.io
-```
+   ```sh
+   sudo apt-get update
+   sudo apt-get install docker-ce docker-ce-cli containerd.io
+   ```
 
 6. To install a specific version of Docker Engine, list the available versions in the repo, then select and install
 
-```sh
-  apt-cache madison docker-ce
+   ```sh
+   apt-cache madison docker-ce
 
-  # docker-ce | 5:18.09.1~3-0~debian-stretch | https://download.docker.com/linux/debian stretch/stable amd64 Packages
-  # docker-ce | 5:18.09.0~3-0~debian-stretch | https://download.docker.com/linux/debian stretch/stable amd64 Packages
-  ...
-```
+   # docker-ce | 5:18.09.1~3-0~debian-stretch | https://download.docker.com/linux/debian stretch/stable amd64 Packages
+   # docker-ce | 5:18.09.0~3-0~debian-stretch | https://download.docker.com/linux/debian stretch/stable amd64 Packages
+   ...
+   ```
 
  Install a specific version using the version string from the second column, for example, 5:18.09.1~3-0~debian-stretch.
 
@@ -179,9 +179,9 @@ sudo add-apt-repository \
 
 8. If you would like to use Docker as a non-root user, you should now consider adding your user to the “docker” group with something like:
 
-```sh
-  sudo usermod -aG docker $USER
-```
+   ```sh
+   sudo usermod -aG docker $USER
+   ```
 
 ---
 
