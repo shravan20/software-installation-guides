@@ -24,7 +24,6 @@ Installation Guide for various development software, tools and packages
 | [PostgreSQL](./tools/postgresql/README.md)| latest | [View](./tools/postgresql) |
 | [Redis](./tools/Redis/README.md)      | latest  | [View](./tools/Redis)    |
 
-
 <br>
 
 
