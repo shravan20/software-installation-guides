@@ -3,7 +3,7 @@
 | Sl No  | Version  | Operating System |
 |:-:|:-:|:-:|
 | 1  | [latest(v4.2.1)](#installation-of-mongodb421-ubuntu-1804)  | Ubuntu 18.04(BionicBeaver)  |
-| 2  | [latest(v4.2.1)](#installation-of-mongodb421--ec2-ami-linux)  | Amazon AMI Linux |
+| 2  | [latest(v4.2.1)](#installation-of-mongodb421--ec2-ami-linux)  | Debian/Raspbian Versions |
 
 
 ---
