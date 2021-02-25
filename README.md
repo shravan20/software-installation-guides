@@ -2,6 +2,8 @@
 
 Installation Guide for various development software, tools and packages
 
+![alt cover](./assets/coverImage.png)
+
 ### List of tools
 
 | Tool Name  | Version [Compatibilities]  | Shell Script |
