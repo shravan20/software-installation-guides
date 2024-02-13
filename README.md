@@ -24,8 +24,10 @@ Installation Guide for various development software, tools and packages
 | [PostgreSQL](./tools/postgresql/README.md)| latest | [View](./tools/postgresql) |
 | [Redis](./tools/Redis/README.md)      | latest  | [View](./tools/Redis)    |
 | [Spring Tool Suite](./tools/STS/README.md) | STS 3 | [View](./tools/STS) |
+| [Monorepo - React with Nestjs](./tools/monorepo_setup.sh) | Reactjs with Nestjs | [View](./tools/monorepo_setup.sh) |
 <br>
 
+https://github.com/shravan20/software-installation-guides/blob/main/tools/monorepo_setup.sh
 
 - ##### <img src="https://ghost.org/images/docs/setup/fork.gif" width="30"> _Huge Shoutout to all the Contributors_
 ![](https://contrib.rocks/image?repo=shravan20/software-installation-guides)
